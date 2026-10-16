@@ -10,6 +10,10 @@ primeiros testes de configuração concluídos
 conexão do git local com o github
 primeiros testes de configuração concluídos
 
+#meu projeto github
+
+este é o meu primeiro README no github
+estou aprendendo a usar o git e o github
 
 
 
