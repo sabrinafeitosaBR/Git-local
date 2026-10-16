@@ -1,19 +1,11 @@
 # Git-local
-conexão de git local para clone do higgsfield
-# git-local 
 
-conexão do git com github 
-primeiros testes de configuração concluídos
+Conexão do Git local com o GitHub para clonar o Higgsfield.
 
-# git-local
+Primeiros testes de configuração concluídos.
 
-conexão do git local com o github
-primeiros testes de configuração concluídos
+Este é o meu primeiro README. Estou aprendendo a usar Git e GitHub.
 
-#meu projeto github
-
-este é o meu primeiro README no github
-estou aprendendo a usar o git e o github
 
 
 
